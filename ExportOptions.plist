@@ -8,8 +8,8 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.haokukeji.cfood</key>
-		<string>adhoc_coolfood</string>
+		<key>xxxxxxxxxx</key>
+		<string>xxxxxxxxxxxxxx</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
